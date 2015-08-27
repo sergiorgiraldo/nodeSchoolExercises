@@ -1,0 +1,19 @@
+{
+  "name": "generators",
+  "version": "1.0.0",
+  "description": "generators tutorial at nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isRuslan/learn-generators"
+  },
+  "author": "sergio rodrigues giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isRuslan/learn-generators/issues"
+  },
+  "homepage": "https://github.com/isRuslan/learn-generators"
+}

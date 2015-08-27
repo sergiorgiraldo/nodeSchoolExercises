@@ -1,0 +1,19 @@
+{
+  "name": "kickoff-koa",
+  "version": "1.0.0",
+  "description": "koa beginners tuorial from nodeSchool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koajs/kick-off-koa"
+  },
+  "author": "sergio rodrigues giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koajs/kick-off-koa/issues"
+  },
+  "homepage": "https://github.com/koajs/kick-off-koa"
+}
